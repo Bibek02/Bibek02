@@ -6,6 +6,7 @@ Afret work, I'm passionate about expanding my skills in web development. After h
 
 ### [My development toolbelt]()
 
+<p>
 <img
   src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png"
   title="CSS"
@@ -34,6 +35,7 @@ style="display: inline-block; margin: 0 auto; max-width: 30px; margin-right: 15p
 src="https://raw.githubusercontent.com/SeleniumHQ/www.seleniumhq.org/e846535b56af5f01151ec93f88785b86d3809564/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg"
 title="Selenium"
 style="display: inline-block; margin: 0 auto; max-width: 30px; margin-right: 15px">
+</p>
 
 ### [Currently learning]()
 
